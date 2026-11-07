@@ -1,4 +1,3 @@
-```md
 <!--
   GitHub Profile README
   Author: Kyanka Wisnu Wardhana
@@ -25,14 +24,12 @@
 
 ## `$ whoami`
 
-```bash
 name       : Kyanka Wisnu Wardhana
 username   : kyankaww
 role       : Full-Stack Developer
 interests  : Web Development, UI/UX, Technology
 education  : Informatics Engineering Student
 mindset    : Create. Experiment. Learn. Repeat.
-```
 
 I'm an Informatics Engineering student passionate about building digital products and exploring the intersection of technology and design.
 
